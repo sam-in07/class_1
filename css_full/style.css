@@ -1,0 +1,38 @@
+/* selector {
+    property :
+    value :
+} */
+
+h1{
+    color: red;
+    text-decoration: underline;
+}
+.para {
+    font-size: 16px;
+    color: blue;
+    line-height: 1.5;
+}
+
+p.para{
+    color: yellow;
+}
+
+
+
+a {
+    text-decoration: none;
+    background-image: linear-gradient(to right , red , yellow);
+    padding: 15px 25px;
+    display: inline-block;
+    color: white;
+    border-radius: 15px;
+    transition: all 0.3s;
+
+}
+
+a:hover {
+    background-image: linear-gradient(to right , red , yellow);
+}
+
+
+
