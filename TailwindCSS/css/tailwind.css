@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.btn{
+    @apply mx-10 my-10 inline-block bg-red-600 text-white font-light 
+    text-lg py-3 px-5 rounded-full hover:bg-red-900 hover:transition-colors 
+    focus:ring-2 ring-offset-2
+    ring-green-700
+}

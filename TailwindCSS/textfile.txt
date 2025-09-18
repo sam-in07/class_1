@@ -1,0 +1,30 @@
+https://tailwindcss.com/docs/font-family  Typography 
+https://tailwindcss.com/docs/font-size  Font Size
+https://tailwindcss.com/docs/letter-spacing  
+
+https://tailwindcss.com/docs/line-height 
+
+https://tailwindcss.com/docs/list-style-type 
+https://tailwindcss.com/docs/text-align  
+https://tailwindcss.com/docs/color 
+https://tailwindcss.com/docs/text-decoration-line  
+https://tailwindcss.com/docs/text-decoration-color 
+https://tailwindcss.com/docs/margin 
+
+https://tailwindcss.com/docs/border-style  
+
+https://tailwindcss.com/docs/border-radius 
+https://tailwindcss.com/docs/border-width 
+Style , Ring Color 
+check border related others 
+
+Square rotation : 🥲
+
+Custome Color :
+
+bg-[#71f873]
+
+Custome : 
+size : ml-[10px] 
+
+https://tailwindcss.com/docs/responsive-design
